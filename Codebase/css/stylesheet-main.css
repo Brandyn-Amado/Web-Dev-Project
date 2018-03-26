@@ -1,0 +1,40 @@
+body {
+    font-family: "Lato", Lato Light, Roboto;
+    font-size: 125%;
+    line-height: 1.7em;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-weight: 1000;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+#top_row header img {
+    height: 7%;
+    width: 7%;
+    margin-left: 2%;
+    margin-top: 0.3%;
+}
+
+#top_row nav {
+    float: right;
+    margin-right: 46%;
+    width: 43%;
+    margin-top: 17px;
+    border-style: groove;
+    border-width: 0%;
+    border-bottom-width: 2%;
+}
+
+#top_row nav a {
+    margin-right: 3%;
+    text-align: center;
+    display: inline-block;
+    color: #800000;
+}
+
+body {
+    background-color: #F5F5DC;
+}
